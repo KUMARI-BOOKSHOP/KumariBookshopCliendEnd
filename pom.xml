@@ -11,8 +11,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>UniversalCarSale</groupId>
-    <artifactId>UniversalCarSale</artifactId>
+    <groupId>KumariBooshopClientEnd</groupId>
+    <artifactId>KumariBooshopClientEnd</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
